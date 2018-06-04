@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7C01C07C20C56C8D005F2471 /* SHImagePickerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C01C07B20C56C8D005F2471 /* SHImagePickerController.m */; };
 		7CD42C1620BFC95F00DF54DA /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CD42C1520BFC95F00DF54DA /* AppDelegate.m */; };
 		7CD42C1920BFC95F00DF54DA /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CD42C1820BFC95F00DF54DA /* ViewController.m */; };
 		7CD42C1C20BFC95F00DF54DA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7CD42C1A20BFC95F00DF54DA /* Main.storyboard */; };
@@ -43,6 +44,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7C01C07A20C56C8D005F2471 /* SHImagePickerController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SHImagePickerController.h; sourceTree = "<group>"; };
+		7C01C07B20C56C8D005F2471 /* SHImagePickerController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SHImagePickerController.m; sourceTree = "<group>"; };
 		7CD42C1120BFC95F00DF54DA /* SHImagePickerControllerDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SHImagePickerControllerDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7CD42C1420BFC95F00DF54DA /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		7CD42C1520BFC95F00DF54DA /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -175,6 +178,8 @@
 				7CD42C5020BFDB7D00DF54DA /* SHImagerPickerManager.m */,
 				7CD42C5B20BFDC0000DF54DA /* SHImagerPickerOption.h */,
 				7CD42C5C20BFDC0000DF54DA /* SHImagerPickerOption.m */,
+				7C01C07A20C56C8D005F2471 /* SHImagePickerController.h */,
+				7C01C07B20C56C8D005F2471 /* SHImagePickerController.m */,
 				7CD42C5E20BFDCA300DF54DA /* SHImagerPickerModel */,
 				7CD42C4E20BFDB2E00DF54DA /* SHPreviewController */,
 				7CD42C4D20BFDB1F00DF54DA /* SHPhotoListController */,
@@ -357,6 +362,7 @@
 				7CD42C5420BFDBB000DF54DA /* SHPreviewVController.m in Sources */,
 				7CD42C2420BFC96100DF54DA /* main.m in Sources */,
 				7CD42C1620BFC95F00DF54DA /* AppDelegate.m in Sources */,
+				7C01C07C20C56C8D005F2471 /* SHImagePickerController.m in Sources */,
 				7CD42C6420BFDD0200DF54DA /* SHAssetModel.m in Sources */,
 				7CD42C5720BFDBC900DF54DA /* SHPhotosViewController.m in Sources */,
 				7CD42C5120BFDB7D00DF54DA /* SHImagerPickerManager.m in Sources */,
